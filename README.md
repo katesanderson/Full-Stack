@@ -6,11 +6,11 @@ A Library Book System - Using Flask, APIs, SQL
 <h2 style="color:pink;">Description</h2> 
 Running the API:
 
-1 - First input you correct data into the config.py file such as your username.
-2 - Copy the SQL-LibraryBooks.SQL file and run in your SQL workbench
-3-  Run the db-utils file to check it is working properly (it should be!)
-4 - Start your flask by going into the API file and clicking run
-5 - In the API.py file you can uncomment each command and run each one for the data
+1 - First input you correct data into the config.py file such as your username.  
+2 - Copy the SQL-LibraryBooks.SQL file and run in your SQL workbench  
+3-  Run the db-utils file to check it is working properly (it should be!)  
+4 - Start your flask by going into the API file and clicking run  
+5 - In the API.py file you can uncomment each command and run each one for the data  
 
 ---
 <h2 style="color:pink;">Usage</h2>

@@ -1,5 +1,5 @@
 # Full-Stack
-A Library Book System - Using Flask, API, SQL,
+A Library Book System - Using Flask, APIs, SQL
 
 <h1 style="color:pink;">Library Books Availability System</h1> 
 
